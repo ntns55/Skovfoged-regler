@@ -5,42 +5,43 @@ En \textbf{Naturforvalter} hjælper andre. De har forbundet by og natur og kan h
 
 \textbf{Du skal vælge din sti med omhug, da dette ikke kan ændres efter dette er valgt.}\\
 
-\begin{tabular}{|p{0.3525\textwidth}|p{0.1175\textwidth}|p{0.3525\textwidth}|p{0.1175\textwidth}|}
-\hline
-\rowcolor{cerulean!80}
- \multicolumn{2}{|c|}{ Skovrider } & \multicolumn{2}{|c|}{ Naturforvalter }\\
-\hline
-\rowcolor{cerulean!40}
-    Evne navn & Pris i XP & Evne navn & Pris i XP\\ \hline
-    Ekstra LP niv. 3 & 3 & Alt er et & 4 \\\hline
-    Naturens Klinge & 4 & Læse/Skrive Hellig & 1  \\\hline
-    Rune Kendskab & 5 & Naturlig Oase & 3\\\hline
-    &&Urte Udvalg &2 \\\hline
 
-\end{tabular}
-
-\section{Evne beskrivelse for Skovrider}
+\begin{table}[H]
+    \centering
+    \begin{tabular}{|p{0.50\textwidth}|p{0.25\textwidth}|}
+    \rowcolor{cerulean!80}\hline
+        Evne navn & Pris i XP \\\hline
+        Ekstra Liv Niv. 3& 2\\\hline
+        Hellig Hærge & 2 \\\hline
+        Hellig Oase & 2 \\\hline
+        Velsignet Våben & 3 \\\hline
+        Felttog Niv. 2 & 2\\\hline
+    \end{tabular}
+\end{table}
+\section{Evne beskrivelse}
 
 \input{../Evne-Ordbog/Ekstra LP/Ekstra LP Niv. 3.tex}
 
-\subsection{Naturens Klinge}
-Denne evne kræver evnen Naturkundskab. Så længe du befinder dig på dit valgte sted vil dine våben skade med hellig skade, buer kan ikke give hellig skade, men pistoler kan. Dette markeres ved at sige “Hellig skade ved hvert slag”, samt et blåt bånd som fjernes nå du ikke længere befinder dig i området. Derudover får du også 1 ekstra LP og +3 NK. Denne evne kan ikke bruges hvis du bærer metal rustning.
+\subsection{Hellig Hærge}
+Denne evne kræver evnen Hellig Gundst Niv.2. Du bruger din tros magt til at overvinde dine fjender. Hvis dit våben er helligt kan du opsuge denne magi ved at bruge 4 mana for at give 5 hellig skade til en fjende. Dette kræver også en bøn på 10 ord. Dit våben er ikke længere helligt, hvis dit våben er helligt fra rune våben vil dette ødelægge runevåbnet. Når du rammer personen siger du følgende kommando: 5 Hellig skade.
 
-\subsection{Rune Kendskab}
+\subsection{Hellig Oase}
+Denne evne kræver evnen Hellig Gundst Niv.2. Så længe du befinder dig ved dit altar vil folk af samme religion genvinde 1 LP pr 5 min uden for kamp, og præster af din relgion (Druider og shamaner, hvis du har valgt natur eller ånder respektivt.) genvinder dobbelt Mana når de prædiker eller meditere ved dit altar. \textit{(Denne evne kan ikke påvirke den samme person flere gange.)}
 
-Vælg 2 runegenstande fra smedesættet. Skriv disse på dit karakterark. Du er i stand til at lave disse runegenstande. Disse genstande kan ikke skiftes når de først er valgt. 
+\subsection{Velsignet Våben}
+Denne evne kræver evnen Hellig Gundst Niv.2. 
+Hvis får en niveau 4 magi, der kræver en passende bøn og relevant mana at kaste. Effekten afhænger af din tro:
+\begin{itemize}
+    \item Esselaia: Den Fredelige Vej - Denne magi påvirker et nærkamps våben du bruger. Når du rammer en person med dit våben, vil de falde i søvn i 1 minut. Dette gælder også hvis personen bliver ramt på et skjold. Kommando: "Fredens Vej, Søvn, 1 minut".
+    \item Ewen: Mana Dræn - Denne magi kan kun bruges på et nærkamps våben du har. Den næste person du rammer med dette våben vil miste alt deres mana. Også hvis du rammer deres skjold. Kommando: "Mana dræn, mist alt mana."
+    \item Ishtar: Ishtars Vilje - Denne magi kastes på et nærkamps våben du bruger. Når du rammer en person med dette våben, vil de blive påvirket af intens smerte i 10 sekunder. Effekten gælder for de næste 3 slag, eller i de næste 2 minutter, alt efter hvad der sker først. Effekten gælder også hvis personen bliver ramt på et skjold. Kommando: "Ishtars Vilje, smerte, 10 sekunder."
+    \item Kelllwan: Kelllwans Hammer - Denne magi kan kun bruges på køller eller hamre du har. Når en person rammes af et våben med der har evnen Kelllwans hammer falder personen bagover. Denne effekt gælder også hvis personen bliver ramt på et skjold. Kommando: ”Kelllwans hammer, vælt”
+    \item Morwen: Dødens Klinge - Denne magi kan kastes på et sværd eller spyd du har. Når en præst rammer en spiller med et slag vil dette dræbe den pågældende spiller, uanset deres mængde af liv. Denne effekt gælder IKKE hvis personen bliver ramt på et skjold, og vil også blive brugt. Vær opmærksom på at denne effekt kun er gældende på det næste slag. Når dette slag rammer vil præsten blive påvirket af svaghed\footnote{Svaghed gør at man ikke kan kæmpe i 10 minutter. Dette er IKKE en magisk effekt, og hvis den undgåes vil du i stedet dø.}. Kommando: “Dødens gave - Død.”
+    \item Naturens Vrede - Denne magi kan kastes på et nærkamps våben du bruger. Når du rammer en person med dette våben, vil de miste alt deres RP. Effekten gælder kun på det næste slag og gælder IKKE hvis personen bliver ramt på et skjold. Kommando: "Naturens Vrede, mist alle RP".
+    \item Orlek: Orleks Næve - Denne magi kastes på et nærkamps våben du bruger, og det tillader dig at ophæve en magi, når du rammer noget/nogen med dit våben. Dette gælder på de næste 3 slag, eller i de næste 2 minutter, alt efter hvad der sker først. Denne effekt gælder også hvis personen bliver ramt på et skjold. Kommando: "Orleks næve, ophæv magi"
+    \item Raffael Moordet: Livs Drikker -  Denne magi kastes på et nærkamps våben som du bruger. Når du rammer nogen, således at de tager skade, får du selv 1 LP. Dette LP er et du genvinder, så hvis du allerede har fuld LP, virker denne effekt ikke.
+    \item Ånder: Du og en du har give Salve bytter LP som hvis der var kastet Ulvens Pagt. 
+\end{itemize}
 
-Du kan se de tilgængelige runegenstande i sektionen Rune Genstande.
-
-\section{Evne beskrivelse for Naturforvalter}
-
-\subsection{Alt er et}
-Denne evne kræver evnen Naturkundskab. Naturkundskab gælder nu både for minen og urtedalen. Derudover må du vælge 1 hellig grund, som vil tælle som at være inkluderet i Naturkundskab. Når denne hellig grund er valgt kan den ikke vælges om.
-
-\input{../Evne-Ordbog/Læse og skrive/Læse og skrive Hellig.tex}
-
-\subsection{Naturlig Oase}
-Denne evne kræver evnen Naturkundskab. Så længe du befinder dig på dit valgte sted vil venner og dig selv genvinde 1 LP pr 5 min uden for kamp, og andre Druider, Shamaner og Troldmænd genvinder dobbelt Mana når de meditere. \textit{(Denne evne kan ikke påvirke den samme person flere gange.)} Denne evne kan ikke bruges hvis du bærer metal rustning.
-
-
-\input{../Evne-Ordbog/Vareudvalg/Urteudvalg.tex}
+\subsection{Felttog Niv. 2}
+Drag på felttog til urtedalen eller minen med en gruppe af folk du har givet salve denne spilgang. Når de plyndrer områdets naturlige ressourcer vil de kun skulle flytte 3 sække, i stedet for 5. De der har modtaget salven vil tælle som at miste den.
