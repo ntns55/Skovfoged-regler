@@ -1,44 +1,50 @@
 \babel@toc {danish}{}\relax 
 \contentsline {chapter}{\numberline {1}Indledning}{4}{chapter.1}%
-\contentsline {chapter}{\numberline {2}Niveau 1}{5}{chapter.2}%
-\contentsline {section}{Evne beskrivelse}{5}{section*.3}%
-\contentsline {subsection}{Ekstra LP Niv. 1}{5}{subsection*.4}%
-\contentsline {subsection}{Førstehjælp}{5}{subsection*.5}%
-\contentsline {subsection}{Indkomst}{6}{subsection*.6}%
-\contentsline {subsection}{Hellig Gundst Niv. 1}{6}{subsection*.7}%
-\contentsline {chapter}{\numberline {3}Niveau 2}{7}{chapter.3}%
-\contentsline {section}{Evne beskrivelse}{7}{section*.9}%
-\contentsline {subsection}{Ekstra LP Niv. 2}{7}{subsection*.10}%
-\contentsline {subsection}{Ekstra NK Niv. 1}{7}{subsection*.11}%
-\contentsline {subsection}{Helligt våben}{8}{subsection*.12}%
-\contentsline {subsection}{Giv Salve Niv.1}{8}{subsection*.13}%
-\contentsline {subsection}{Felttog Niv. 1}{8}{subsection*.14}%
-\contentsline {chapter}{\numberline {4}Niveau 3}{9}{chapter.4}%
-\contentsline {section}{Evne beskrivelse}{9}{section*.16}%
-\contentsline {subsection}{Læse og skrive Hellig}{9}{subsection*.17}%
-\contentsline {subsection}{Hellig Gundst Niv. 2}{10}{subsection*.19}%
-\contentsline {subsection}{Hellig Bueskytte}{10}{subsection*.20}%
-\contentsline {subsection}{Giv Salve Niv.2}{10}{subsection*.21}%
-\contentsline {chapter}{\numberline {5}Niveau 4}{11}{chapter.5}%
-\contentsline {section}{Evne beskrivelse}{11}{section*.23}%
-\contentsline {subsection}{Ekstra LP Niv. 3}{11}{section*.24}%
-\contentsline {subsection}{Hellig Hærge}{12}{subsection*.25}%
-\contentsline {subsection}{Hellig Oase}{12}{subsection*.26}%
-\contentsline {subsection}{Velsignet Våben}{12}{subsection*.27}%
-\contentsline {subsection}{Felttog Niv. 2}{13}{subsection*.28}%
-\contentsline {chapter}{Generelle evner}{14}{chapter*.29}%
-\contentsline {section}{Evne beskrivelse}{14}{table.caption.30}%
-\contentsline {subsection}{6. sans Niv. 1}{14}{subsection*.31}%
-\contentsline {subsection}{6. sans Niv. 2}{15}{subsection*.32}%
-\contentsline {subsection}{Bonk}{15}{subsection*.33}%
-\contentsline {subsection}{Brug af pistol}{15}{subsection*.34}%
-\contentsline {subsection}{Bære person}{15}{subsection*.35}%
-\contentsline {subsection}{Førstehjælp}{16}{subsection*.36}%
-\contentsline {subsection}{Læse og skrive}{16}{subsection*.37}%
-\contentsline {subsection}{Minearbejder}{16}{subsection*.38}%
-\contentsline {subsection}{Påfør gift}{16}{subsection*.39}%
-\contentsline {subsection}{Slagsbror Niv. 1}{16}{subsection*.40}%
-\contentsline {subsection}{Slagsbror Niv. 2}{17}{subsection*.41}%
-\contentsline {subsection}{Slagsbror Niv. 2}{17}{subsection*.42}%
-\contentsline {subsection}{Speciale}{17}{subsection*.43}%
-\contentsline {subsection}{Urtesamler}{17}{subsection*.44}%
+\contentsline {chapter}{\numberline {2}At kaste magi som en Tempelkriger}{5}{chapter.2}%
+\contentsline {section}{Generelle regler om Magi}{5}{section*.2}%
+\contentsline {subsection}{Magiens elve bud}{5}{subsection*.3}%
+\contentsline {subsection}{At kaste magi}{7}{subsection*.4}%
+\contentsline {section}{Altar}{8}{section*.6}%
+\contentsline {section}{Genvinde mana som tempelkriger}{8}{section*.7}%
+\contentsline {chapter}{\numberline {3}Niveau 1}{9}{chapter.3}%
+\contentsline {section}{Evne beskrivelse}{9}{section*.9}%
+\contentsline {subsection}{Ekstra LP Niv. 1}{9}{subsection*.10}%
+\contentsline {subsection}{Førstehjælp}{9}{subsection*.11}%
+\contentsline {subsection}{Indkomst}{10}{subsection*.12}%
+\contentsline {subsection}{Hellig Gundst Niv. 1}{10}{subsection*.13}%
+\contentsline {chapter}{\numberline {4}Niveau 2}{11}{chapter.4}%
+\contentsline {section}{Evne beskrivelse}{11}{section*.15}%
+\contentsline {subsection}{Ekstra LP Niv. 2}{11}{subsection*.16}%
+\contentsline {subsection}{Ekstra NK Niv. 1}{11}{subsection*.17}%
+\contentsline {subsection}{Helligt våben}{12}{subsection*.18}%
+\contentsline {subsection}{Giv Salve Niv.1}{12}{subsection*.19}%
+\contentsline {subsection}{Felttog Niv. 1}{12}{subsection*.20}%
+\contentsline {chapter}{\numberline {5}Niveau 3}{13}{chapter.5}%
+\contentsline {section}{Evne beskrivelse}{13}{section*.22}%
+\contentsline {subsection}{Læse og skrive Hellig}{13}{subsection*.23}%
+\contentsline {subsection}{Hellig Gundst Niv. 2}{13}{subsection*.25}%
+\contentsline {subsection}{Hellig Bueskytte}{14}{subsection*.26}%
+\contentsline {subsection}{Giv Salve Niv.2}{14}{subsection*.27}%
+\contentsline {chapter}{\numberline {6}Niveau 4}{15}{chapter.6}%
+\contentsline {section}{Evne beskrivelse}{15}{section*.29}%
+\contentsline {subsection}{Ekstra LP Niv. 3}{15}{section*.30}%
+\contentsline {subsection}{Hellig Hærge}{15}{subsection*.31}%
+\contentsline {subsection}{Hellig Oase}{16}{subsection*.32}%
+\contentsline {subsection}{Velsignet Våben}{16}{subsection*.33}%
+\contentsline {subsection}{Felttog Niv. 2}{17}{subsection*.34}%
+\contentsline {chapter}{Generelle evner}{18}{chapter*.35}%
+\contentsline {section}{Evne beskrivelse}{18}{table.caption.36}%
+\contentsline {subsection}{6. sans Niv. 1}{18}{subsection*.37}%
+\contentsline {subsection}{6. sans Niv. 2}{19}{subsection*.38}%
+\contentsline {subsection}{Bonk}{19}{subsection*.39}%
+\contentsline {subsection}{Brug af pistol}{19}{subsection*.40}%
+\contentsline {subsection}{Bære person}{19}{subsection*.41}%
+\contentsline {subsection}{Førstehjælp}{20}{subsection*.42}%
+\contentsline {subsection}{Læse og skrive}{20}{subsection*.43}%
+\contentsline {subsection}{Minearbejder}{20}{subsection*.44}%
+\contentsline {subsection}{Påfør gift}{20}{subsection*.45}%
+\contentsline {subsection}{Slagsbror Niv. 1}{20}{subsection*.46}%
+\contentsline {subsection}{Slagsbror Niv. 2}{21}{subsection*.47}%
+\contentsline {subsection}{Slagsbror Niv. 2}{21}{subsection*.48}%
+\contentsline {subsection}{Speciale}{21}{subsection*.49}%
+\contentsline {subsection}{Urtesamler}{21}{subsection*.50}%
