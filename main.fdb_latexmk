@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1758740644.92826 "c:/Users/niels/Documents/GitHub/Skovfoged-regler/main.tex" "main.pdf" "main" 1758740647.99223 0
+["pdflatex"] 1759480536.14321 "c:/Users/niels/Documents/GitHub/Skovfoged-regler/main.tex" "main.pdf" "main" 1759480539.14119 0
   "../Evne-Ordbog/Ekstra LP/Ekstra LP Niv. 1.tex" 1757946765 54 89dd3a85b9d7c5123617a806108ebc52 ""
   "../Evne-Ordbog/Ekstra LP/Ekstra LP Niv. 2.tex" 1757946765 54 2af0a73ff058b8c72deabeef54f7774b ""
   "../Evne-Ordbog/Ekstra NK/Ekstra NK Niv. 1.tex" 1757886439 60 887729619453f26a0297a14b4adf473c ""
@@ -32,7 +32,7 @@
   "../Evne-Ordbog/setup/hyphenations.tex" 1754339026 187 25dd9d5834155c431eb54cd73045ea9a ""
   "../Evne-Ordbog/setup/macros.tex" 1754339026 3879 07a835151c43e390c8d73670b3a1cd8c ""
   "../Evne-Ordbog/setup/preamble.tex" 1757946765 15315 84ad9779f6267de22bc6520bacea6bff ""
-  "C:/Users/niels/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1757948289 173596 82be86f7e08c3b604a70f1fea2fef9ff ""
+  "C:/Users/niels/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1758744211 173596 82be86f7e08c3b604a70f1fea2fef9ff ""
   "C:/Users/niels/AppData/Local/MiKTeX/fonts/tfm/public/stmaryrd/stmary10.tfm" 1754342904 848 f478e0761563bbc369eca609a1741348 ""
   "C:/Users/niels/AppData/Local/MiKTeX/fonts/tfm/public/stmaryrd/stmary5.tfm" 1754342909 848 e1bc58a31b9ed9c3729ffea165acfaac ""
   "C:/Users/niels/AppData/Local/MiKTeX/fonts/tfm/public/stmaryrd/stmary6.tfm" 1754342906 848 068dd119e13b75777e62821af7d4f2a6 ""
@@ -289,12 +289,12 @@
   "C:/Users/niels/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1750428951 2269 2de6c7a5fd634dfef00a960544463a38 ""
   "C:/Users/niels/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1750428951 20785 198a9cb2e04238d92c320d0d9edbd76a ""
   "c:/Users/niels/Documents/GitHub/Skovfoged-regler/main.tex" 1758724179 1868 69da3e9fcf1b0906377103a3fb6591fa ""
-  "main.aux" 1758740647 7534 c9d005a0529895d7e2e11b7f3d51d79d "pdflatex"
-  "main.out" 1758740647 6459 b0c0b65e32fe68e583c461beffb61a4e "pdflatex"
+  "main.aux" 1759480538 6664 8d1a1e062cef7db9437716caeaaa9b6c "pdflatex"
+  "main.out" 1759480538 6459 98b34b0c65a577fd16aab90923a536ee "pdflatex"
   "main.tex" 1758724179 1868 69da3e9fcf1b0906377103a3fb6591fa ""
-  "main.toc" 1758740647 3092 c943892671d654e8fcba1e09ff097afa "pdflatex"
+  "main.toc" 1759480538 3092 8406166241690c002cce4e8db00c90b6 "pdflatex"
   "mainstuff/Indledning.tex" 1758738444 2060 db234c928deabb18aa5c6a2743292286 ""
-  "mainstuff/Niv1.tex" 1758735271 1397 608e377314d9caed47811231361331bb ""
+  "mainstuff/Niv1.tex" 1759480535 1570 fee5c0fdc08e9e13daf4b0ceafc0a6e0 ""
   "mainstuff/Niv2.tex" 1758738581 1135 82fdd6bc57a3bf7ffaedfb4ec206f9d0 ""
   "mainstuff/Niv3.tex" 1758738612 1580 d87a815de02a1fe9029b2476c0aea61b ""
   "mainstuff/Niv4.tex" 1758740644 5067 5c8b3c31b5339077e2ddc0914ce67832 ""
